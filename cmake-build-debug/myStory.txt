@@ -1,19 +1,15 @@
 1|In the middle of the night your car runs out of gas. You were driving through a forest so you begin to walk along the highway in hopes of finding someone to help you or cell service. No cars have past you yet, and you spot a light in the forest.|2|3
-
-2|You start into the forest. You come across a treehouse far above you with lights on.|4|5
-3|You continue walking alongside the highway. A run-down pick-up truck rumbles up next to you.|6|2
-
+2|You continue walking alongside the highway. A run-down pick-up truck rumbles up next to you.|6|3
+3|You start into the forest. You come across a treehouse far above you with lights on.|4|5
 4|You decide to try and explore it.|7|8
 5|You keep walking deeper into the forest. You hear rustling from behind a bush to your left.|9|10
 6|You ask the man driving for help. He says the closest gas station is 30 miles back where he was driving from. Far too long to walk.|11|12
-
 7|You begin climbing the rope ladder leading directly onto the deck of the treehouse. Once you reach the top, you see a spear aimed right at your face.|13|14
 8|You begin ascending a tree nearby to try and see into the windows of the treehouse. You see there is a family living there eating dinner. You are cold and hungry.|15|16
 9|You approach the bush to investigate. It is a young hiker trying to get herself unstuck from brambles.|17|18
 10|You run away. Not 3 steps away you fall off the edge of a cliff you could not see and die.|-1|-1
 11|You get into the passenger seat of the car and tell him to drive you back to your car. He gets mad that you won't accept help and begins driving not in the direction of your car.|19|20
 12|You get into the passenger seat of the car and ask him to drive you to the gas station and then back to your car. He turns the car around to head to the gas station. He does take you to the gas station, but he asks for one favor before he drives you back to your car.|21|22
-
 13|You try to climb back down. They leave you alone since you did not try to invade their space further.|23|24
 14|You try to wrestle the spear out of the persons hands. It does not come out, and he gets mad and kills you.|-1|-1
 15|You approach them with hands raised asking for help. They don't understand you and end up killing you.|-1|-1
@@ -22,10 +18,9 @@
 18|You leave her to it and begin again on your own quest. A bear happens to be walking upon your same path and gets a tasty snack, you.|-1|-1
 19|You try to fight for control of the wheel. In the ensuing struggle you run into a tree and are both killed on impact.|-1|-1
 20|You try to reason with him. This makes him mad and he hits you in the head to quiet you. You do not wake up again.|-1|-1
-21|You say you will do his favor as he has been kind to you up to this point. He drives you to his house ten minutes away from the gas station deep in the woods.
+21|You say you will do his favor as he has been kind to you up to this point. He drives you to his house ten minutes away from the gas station deep in the woods.|-1|-1
 22|You deny his request for help and say that you will wait at the gas station for someone else to drive you to your car. He gets mad at this and kills you with a pistol you did not see that he had|-1|-1
-
 23|You run back to your car thoroughly spooked and ready to wait out the night. A semi truck doesn't see your car and barrels into it. Killing you in your sleep.|-1|-1
-24|You venture further into the forest. You come across a small mining town with friendly people. You ask the shop owner for gas and if you can pay for a ride back. The kind man says yes and even stays with you with his hazards on until your car is running. Congrats your on your way again and this forest is nothing more than a past story!
+24|You venture further into the forest. You come across a small mining town with friendly people. You ask the shop owner for gas and if you can pay for a ride back. The kind man says yes and even stays with you with his hazards on until your car is running. Congrats your on your way again and this forest is nothing more than a past story!|-1|-1
 25|You start hacking the brambles with a knife but the woman gets scared and lashes out at you and inflicts a leg wound preventing you from moving. You keep the forest animals company until you pass onto the next life.|-1|-1
-26|You begin with trying to get the woman to calm down. She is hysterical, but you get her free and she runs off. You are now very tired and need to rest. Resting in this forest is not a good idea, you wake up dazed and can't find your way out and begin wandering in circles. You meet your end laying on a bed of moss in exhaustion.
+26|You begin with trying to get the woman to calm down. She is hysterical, but you get her free and she runs off. You are now very tired and need to rest. Resting in this forest is not a good idea, you wake up dazed and can't find your way out and begin wandering in circles. You meet your end laying on a bed of moss in exhaustion.|-1|-1
